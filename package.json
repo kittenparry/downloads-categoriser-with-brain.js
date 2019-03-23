@@ -1,0 +1,22 @@
+{
+  "name": "downloads-categoriser-with-brain",
+  "version": "0.1.0",
+  "description": "An attempt at categorising my downloads to their folders with machine learning.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittenparry/downloads-categoriser-with-brain.js.git"
+  },
+  "author": "Edvin Boul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kittenparry/downloads-categoriser-with-brain.js/issues"
+  },
+  "homepage": "https://github.com/kittenparry/downloads-categoriser-with-brain.js#readme",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
